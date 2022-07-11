@@ -5,6 +5,7 @@ package task_1;
  *
  * Подумайте, как вы решили бы эту задачу, как достигли бы требуемой асимптотики.
  */
+
 public class Main {
     public static void main(String[] args) {
         int[] bookshelf = {14, 16, 19, 32, 32, 32, 56, 69, 72};
